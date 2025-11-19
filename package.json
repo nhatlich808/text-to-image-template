@@ -1,9 +1,9 @@
 {
-	"name": "text-to-image-template",
-	"description": "Generate images based on text prompts.",
+	"name": "an-image-just-for-you",
+	"description": "An image just for you",
 	"private": true,
 	"cloudflare": {
-		"label": "Text to Image App",
+		"label": "An image just for you",
 		"products": [
 			"Workers",
 			"AI"
